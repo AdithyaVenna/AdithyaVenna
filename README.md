@@ -114,7 +114,7 @@
 
 ###
 
-<h2 align="left">Tools & Technologies</h2>
+<h2 align="left">Social Links</h2>
 
 ###
 
