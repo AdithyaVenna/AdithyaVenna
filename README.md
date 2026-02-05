@@ -133,25 +133,25 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AdithyaVenna.https://github.com/AdithyaVenna&"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AdithyaVenna.https://github.com/AdithyaVenna&"  />
+  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/https://github.com/AdithyaVenna/https://github.com/AdithyaVenna/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/AdithyaVenna/https://github.com/AdithyaVenna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/AdithyaVenna/https://github.com/AdithyaVenna/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/AdithyaVenna/https://github.com/AdithyaVenna/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAyNzI4MDAsIm5iZiI6MTc3MDI3MjUwMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA1VDA2MjE0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1NTk5MDk0NmI2YjEwMDY3OGM5OTM3YzY2MzM3Y2QwZmYwYmFhYzg5ZWRhNjExZTkxM2E3MjM4NWFlMmYyZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uHHyOHCKmHzBF_2B1vGNKA9rNZ_Oq9YVn3g6oieXebo"  />
+</div>
 
 ###
