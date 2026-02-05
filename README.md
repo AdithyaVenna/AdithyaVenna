@@ -138,20 +138,94 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-</div>
+<h2 align="left">My Projects</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
-</div>
+<h2 align="left">Aranyajal → Play Store Published Mobile Application</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAyNzI4MDAsIm5iZiI6MTc3MDI3MjUwMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA1VDA2MjE0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1NTk5MDk0NmI2YjEwMDY3OGM5OTM3YzY2MzM3Y2QwZmYwYmFhYzg5ZWRhNjExZTkxM2E3MjM4NWFlMmYyZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uHHyOHCKmHzBF_2B1vGNKA9rNZ_Oq9YVn3g6oieXebo"  />
-</div>
+<img align="left" height="200" src="https://play-lh.googleusercontent.com/00_7UOCAmUlQF2_IrZwP78DLU21aiW2UBgAzAC_Ah9ATBAzOqlV_4ENvmLvas2nPCElW938RzZOE8BbZT5V5Kk4=w5120-h2880-rw"  />
+
+###
+
+<img align="left" height="200" src="https://play-lh.googleusercontent.com/qDcMETArER27F6rS3k93N6S_wccH7ZMTYXjgcQLDwc1gZj85Y-756nqjWhdFbky3uI547jQwELpjXZbJLU4A=w5120-h2880-rw"  />
+
+###
+
+<img align="left" height="200" src="https://play-lh.googleusercontent.com/FnFwDCk_RBTC3M7xvY-ZGvAjUW-m4A6YLWXEG6Kvgl8uWAUQni9FvqHqcssNcPKh75MzIkJkbATagDUX9_WBFCk=w5120-h2880-rw"  />
+
+###
+
+<img align="left" height="200" src="https://play-lh.googleusercontent.com/A_SywmNJUUvQlC-iGS-Y74hnhj4bV_WS-qk080qdffElYrnnKVxIRy8JZqw08eTusMOu7JT2qb0FtzzjYUI6Ng=w480-h960-rw"  />
+
+###
+
+<br clear="both">
+
+<p align="left">Aranyajal is an AI-powered smart agriculture and water monitoring platform designed to assist farmers with real-time field analysis and intelligent decision-making. The system integrates advanced AIML models for pest detection, plant disease identification, weed detection, shrimp and fish disease analysis, and water quality monitoring using multiple environmental parameters. It includes analytics dashboards, medication suggestions, multilingual AI chatbot assistance, and supports real-time monitoring with over 90% detection accuracy. The platform combines computer vision, IoT-based data insights, and predictive analytics to enhance farm productivity and sustainability.</p>
+
+###
+
+<br clear="both">
+
+<img align="left" height="50" src="https://img.freepik.com/premium-vector/google-play-store-logo_1273375-804.jpg?semt=ais_hybrid&w=740&q=80"  />
+
+###
+
+<p align="left">https://play.google.com/store/apps/details?id=com.aranyajal.farmer&pcampaignid=web_share</p>
+
+###
+
+<h2 align="left">AQA Shrimp AI → AI-based Shrimp Disease Detection and Aquaculture Monitoring System</h2>
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/736x/ef/9a/01/ef9a01d4a86ec99948a76328b61fd2f7.jpg"  />
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/736x/c8/b2/27/c8b227257f8ba493f74a7030bdb0a935.jpg"  />
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/736x/4f/7b/a2/4f7ba26c90274c925e7b7545ff4cb62f.jpg"  />
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/736x/53/d1/cc/53d1ccbb523a2833fbbc5223e764d470.jpg"  />
+
+###
+
+<br clear="both">
+
+<p align="left">👉 AI-Based Shrimp Disease Detection<br>👉 Shrimp Health Monitoring<br>👉 Water Quality Analysis<br>👉 Smart Treatment & Medication Suggestions<br>👉 Analytics Dashboard<br>👉 AI Chatbot Assistant (Multilingual Support)<br>👉 Real-Time Monitoring System<br>👉 User-Friendly Mobile Interface<br>👉 Data Management & Reports<br>👉 Image-Based Detection System<br>👉 Early Disease Prediction & Alerts<br>👉 Farm Management Support Tools<br>👉 AI-Powered Recommendations System<br>👉 Historical Data Tracking<br>👉 Smart Aquaculture Decision Support</p>
+
+###
+
+<img align="left" height="50" src="https://img.freepik.com/premium-vector/globe-planet-icon-sign-internet-global-sphere_250841-864.jpg?semt=ais_hybrid&w=740&q=80"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
+
+###
+
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+
+###
+
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
+
+###
+
+<img align="left" height="150" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAyNzgwMTcsIm5iZiI6MTc3MDI3NzcxNywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA1VDA3NDgzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwY2M5M2VjOGUxNzZjOTM5YmFmNzkxN2JjZTBmMmIwZjE2NTY1M2I0MWZiMWYxY2IyZDAxZDc5MGRlMTg3OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ccH_849l2lV7VVyFihOz7pNzAGstlea6cJIO5Z_vvTU"  />
+
+###
+
+<p align="left">https://aqashrimpai-website.vercel.app/</p>
 
 ###
