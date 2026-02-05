@@ -208,8 +208,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
 
 ###
