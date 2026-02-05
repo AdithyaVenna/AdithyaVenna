@@ -204,19 +204,19 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="50" src="https://img.freepik.com/premium-vector/globe-planet-icon-sign-internet-global-sphere_250841-864.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
 
+<p align="left">https://aqashrimpai-website.vercel.app/</p>
+
+###
+
+<br clear="both">
+
 <img align="left" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
-
-###
-
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
-
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
 ###
 
@@ -224,6 +224,6 @@
 
 ###
 
-<p align="left">https://aqashrimpai-website.vercel.app/</p>
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
 ###
